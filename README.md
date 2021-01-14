@@ -1,16 +1,14 @@
-# potenciaaparente
+# App para cálculo de Potência Aparente 
 
-Calcula a Potência Aparente, Ativa e Reativa de um sistema, fornecendo a tensão e a corrente.
+## Descrição: 
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+### Este App calcula a Potência Aparente, Ativa e Reativa de um sistema, a partir da informação da tensão e da corrente. 
 
-A few resources to get you started if this is your first Flutter project:
+### Esta é uma Aplicação Mobile simples, com apenas uma tela. Foi desenvolvida com o objetivo de iniciar estudos em desenvolvimento de Apps através do Framework Flutter e da linguagem Dart. 
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+### O objetivo principal deste app foi alcançado. Portanto, o que mais aprendi com este projeto foi a iniciar a desenvolver aplicações mobile. 
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### À época, este foi um passo importante. Hoje possuo muitos outros skills mais avançados que os utilizados neste projeto, portanto este App pode ser entendido como um app iniciante, porém de autoria minha. 
+
+
